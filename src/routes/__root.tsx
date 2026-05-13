@@ -72,6 +72,12 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
       { name: "theme-color", content: "#f5c043" },
+      { property: "og:title", content: "Fundación Tabare — Salud mental sin exclusiones" },
+      { name: "twitter:title", content: "Fundación Tabare — Salud mental sin exclusiones" },
+      { property: "og:description", content: "Fundación Tabare ofrece apoyo psicológico multidisciplinario, ayuda en crisis emocional, prevención y bienestar con un modelo accesible y sostenible." },
+      { name: "twitter:description", content: "Fundación Tabare ofrece apoyo psicológico multidisciplinario, ayuda en crisis emocional, prevención y bienestar con un modelo accesible y sostenible." },
+      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/8eevYk81VMPXobEJ6nfHVnSiv3I3/social-images/social-1778706179045-1630641497977.webp" },
+      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/8eevYk81VMPXobEJ6nfHVnSiv3I3/social-images/social-1778706179045-1630641497977.webp" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
