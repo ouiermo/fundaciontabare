@@ -7,7 +7,7 @@ export const site = {
     { label: "Internacional", number: "+59657322464", display: "+5 96 5732 2464" },
   ],
   social: {
-    linkedin: "https://www.linkedin.com",
-    instagram: "https://www.instagram.com",
+    linkedin: "https://www.linkedin.com/company/fundaci%C3%B3n-tabare/",
+    instagram: "https://www.instagram.com/fundaciontabare/",
   },
 };
